@@ -9,7 +9,7 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and Vanilla JavaScript.
 - **Status Indicators**: Real-time turn tracking and game outcome announcement.
 
 ## Preview
-Open `tic-tac-toe/index.html` in any modern web browser to start playing.
+Open `index.html` in any modern web browser to start playing.
 
 ## How to Play
 1. The game is played on a 3x3 grid.
@@ -22,7 +22,7 @@ No installation required! Just clone the repository and open the HTML file.
 
 ```bash
 git clone https://github.com/deepak1774/Tic-Tac-Toe-Game.git
-cd Tic-Tac-Toe-Game/tic-tac-toe
+cd Tic-Tac-Toe-Game
 # Open index.html in your browser
 ```
 
